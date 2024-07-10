@@ -73,9 +73,13 @@ input, select, textarea {
 
 
 .img_logo {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
 }
+
+.font-verdana {
+	font-family: Verdana, Arial, sans-serif;
+  }
 
 /* Basic */
 
