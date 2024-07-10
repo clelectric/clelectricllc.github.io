@@ -79,6 +79,10 @@ input, select, textarea {
 
 .font-verdana {
 	font-family: Verdana, Arial, sans-serif;
+}
+
+.fuzzy-border {
+	box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
   }
 
 /* Basic */
